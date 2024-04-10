@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gemvc/library": "^2.6"
+    }
+}
